@@ -5,7 +5,8 @@ Projects included:
 - grade calculator
 - Mandelbrot set generator
 
-# Grade calculator
+---
+## Grade calculator
 
 What is it?
 - python application
@@ -18,7 +19,11 @@ What it does?
 - enter grades for all subjects and assessment of behavior
 - application computes average grade and checks if it is diploma with honors
 
-# Sierpinski triangle generator
+<img src="/gradeCalculator/gradeCalculator1.jpg" width="170"> 
+<img src="/gradeCalculator/gradeCalculator2.jpg" width="300">
+
+---
+## Sierpinski triangle generator
 
 What is it?
 - python application
@@ -30,7 +35,10 @@ What it does?
 - you can set amout of iterations of application
 - at some point image becomes completely white - size of elements is smaller than one pixel, so they are not shown
 
-# Mandelbrot set generator
+<img src="/sierpinskiTriangle/sierpinski.jpg" width="400">
+
+---
+## Mandelbrot set generator
 
 What is it?
 - python application
@@ -44,3 +52,5 @@ What it does?
 - right click on plot for zoom out
 - you can set number of calculation points (side of square array), max iteration number for each calculation point, and zoom factor
 - calculation time depends on number of points on plot
+
+<img src="/mandelbrot/mandelbrot.JPG" width="400">
